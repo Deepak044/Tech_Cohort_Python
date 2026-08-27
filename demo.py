@@ -1,1 +1,5 @@
-print("Hello world")
+fruits = ["Apple", "Banana", "Mango"]
+
+print(type(fruits))
+
+
